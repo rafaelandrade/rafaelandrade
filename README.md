@@ -5,10 +5,6 @@
 <a href="https://www.linkedin.com/in/rafaelsandrade/">
   <img align="left" alt="Rafael LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="http://lattes.cnpq.br/2258069969412582">
-  <span class="material-icons"> menu_book </span>
-  <!-- <img align="left" alt="Rafael Lattes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
-</a>
 
 <br/>
 
