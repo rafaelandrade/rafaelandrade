@@ -8,14 +8,14 @@
 
 <br/>
 
-Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que se pode tirar disto. Como hobby busco sempre encontrar novas idéias com objetivo de melhores alguns aspectos do mundo. Além de programar, gosto de livros, comida, e filmes/séries.
+Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que se pode tirar disto. Como hobby busco sempre encontrar novas idéias com objetivo de melhores alguns aspectos do mundo. Além de programar, gosto de livros, comida e filmes/séries.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" />
   
 ### Formação
 
 - Graduado em Ciências da Computação na Universidade Federal de Goiás
-- Programa Data Science for all da SoftBank & Correlation One
+- Program Data Science for all da SoftBank & Correlation One
 
 ### Publicações
 
@@ -24,7 +24,7 @@ Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que s
   
 ### Algumas informações sobre mim:
 
-- 🔭 Atualmente estou trabalhando na [Provi](https://provi.com.br/);
+- 🔭 Atualmente estou trabalhando na [Provi](https://provi.com.br/) sou Web Scraping / Backend Specialist;
 - 🌱 Estou atualmente buscando aprimorar minhas habilidades em análise dos dados;
 - 💬 Pode me perguntar o que quiser, estarei feliz em ajudar;
 - 📫 Como me encontrar: rafasouza@protonmail.com;
