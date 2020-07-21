@@ -20,8 +20,7 @@ Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que s
 ### Publicações
 
 - [Uso de Mineração de Dados para o Auxílio de Produção de Material Didático em Disciplinas de Algoritmos](https://sol.sbc.org.br/index.php/wei/article/view/6641);
-- [Uso de Sistemas de Hipermídia Adaptativa na Aplicação de Testes Vocacionais Automatizados
-] (https://www.researchgate.net/publication/321390173_Uso_de_Sistemas_de_Hipermidia_Adaptativa_na_Aplicacao_de_Testes_Vocacionais_Automatizados);
+- [Uso de Sistemas de Hipermídia Adaptativa na Aplicação de Testes Vocacionais Automatizados](https://www.researchgate.net/publication/321390173_Uso_de_Sistemas_de_Hipermidia_Adaptativa_na_Aplicacao_de_Testes_Vocacionais_Automatizados);
   
 ### Algumas informações sobre mim:
 
