@@ -8,10 +8,7 @@
 
 <br/>
 
-
 Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que se pode tirar disto. Como hobby busco sempre encontrar novas idéias com objetivo de melhores alguns aspectos do mundo. Além de programar, gosto de livros, comida, e filmes/séries.
-<!--
-**rafaelandrade/rafaelandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" />
   
