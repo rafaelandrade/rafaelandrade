@@ -7,6 +7,7 @@
 </a>
 
 <br/>
+<br/>
 
 Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que se pode tirar disto. Como hobby busco sempre encontrar novas idéias com objetivo de melhores alguns aspectos do mundo. Além de programar, gosto de livros, comida e filmes/séries.
 
