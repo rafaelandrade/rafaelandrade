@@ -25,7 +25,7 @@ Sou amante da tecnologia e apaixonado por dados, e as fantásticas idéias que s
   
 ### Algumas informações sobre mim:
 
-- 🔭 Atualmente estou trabalhando na [Provi](https://provi.com.br/) sou Web Scraping / Backend Specialist;
+- 🔭 Atualmente estou trabalhando na [Provi](https://provi.com.br/) como Tech Lead e FullStack developer;
 - 🌱 Estou atualmente buscando aprimorar minhas habilidades em análise dos dados;
 - 💬 Pode me perguntar o que quiser, estarei feliz em ajudar;
 - 📫 Como me encontrar: rafasouza@protonmail.com;
