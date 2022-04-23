@@ -26,7 +26,7 @@ I'm a technology lover and passionate about programming, and how I can try to im
   
 ### About me:
 
-- 🔭 Currently working on [Provi](https://provi.com.br/) as Tech Lead and FullStack developer;
+- 🔭 Currently working on [Pipefy](https://www.pipefy.com/) as Senior Software Engineer;
 - 🌱 Studying new languages and new AWS features;
 - 📫 Be free to send me any message: rafasouza@protonmail.com;
 
