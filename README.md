@@ -27,7 +27,7 @@ A software engineer adept in bringing forth expertise in design, installation, t
   
 ### About me:
 
-- 🔭 Currently working on [Pipefy](https://www.pipefy.com/) as Senior Software Engineer;
+- 🔭 Currently working on [Argyle](https://argyle.com/) as Software Engineer;
 - 📫 Be free to send me any message: rafasouza@protonmail.com;
 
 **Languages**
