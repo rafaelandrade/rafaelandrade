@@ -8,7 +8,7 @@
 
 ---
 
-A **software engineer** with over 3 years of experience, passionate about technology and eager to learn. I have a background in **Computer Science** and specialize in **designing**, **installing**, **testing**, and **maintaining** software systems. I'm driven to solve complex problems and optimize performance, always seeking new challenges.
+A **software engineer** with over 4 years of experience, passionate about technology and eager to learn. I have a background in **Computer Science** and specialize in **designing**, **installing**, **testing**, and **maintaining** software systems. I'm driven to solve complex problems and optimize performance, always seeking new challenges.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelsandrade/) or reach out via [email](mailto:rafasouza@protonmail.com).
 
@@ -20,14 +20,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelsan
 
 - ** SOON AVAILABLE **
 
----
-
 ## 🎓 Education
 
 - **BSc in Computer Science** – Federal University of Goiás (2016-2019)
 - **Program Data Science for All** – SoftBank & Correlation One (2020)
 
----
 
 ## 🛠️ My Toolbox
 
@@ -76,7 +73,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelsan
 - **[Uso de Sistemas de Hipermídia Adaptativa](https://www.researchgate.net/publication/321390173_Uso_de_Sistemas_de_Hipermidia_Adaptativa_na_Aplicacao_de_Testes_Vocacionais_Automatizados)**: Research on adaptive hypermedia systems for vocational testing.
 
 ---
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="400px"/>
-</p>
