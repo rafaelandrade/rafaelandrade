@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Rafael Andrade</h1>
 
-<p align="center" width="100px">
+<p align="center" width="360px">
   <a href="https://www.linkedin.com/in/rafaelsandrade/">
     <img alt="Rafael's LinkedIn" width="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
