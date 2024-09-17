@@ -2,13 +2,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelsandrade/">
-    <img alt="Rafael's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Rafael's LinkedIn" width="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-A **software engineer** with over 4 years of experience, passionate about technology and eager to learn. I have a background in **Computer Science** and specialize in **designing**, **installing**, **testing**, and **maintaining** software systems. I'm driven to solve complex problems and optimize performance, always seeking new challenges.
+<br/>
+
+I’m a **software engineer** with over **4 years of experience** delivering high-quality software solutions. I specialize in **designing**, **developing**, **testing**, and **maintaining** complex systems with a focus on scalability, performance, and reliability.
+
+With a **degree in Computer Science** and a strong passion for **technology**, I bring a wealth of knowledge in **software architecture**, **best practices**, and hands-on development. I excel in tackling **challenging problems**, continuously improving system performance, and optimizing workflows.
+
+### Key Highlights:
+- Proven ability to **design and implement** large-scale systems, from concept to deployment.
+- Expertise in **collaborating across teams** to deliver projects within deadlines and under budget.
+- Passionate about **continuous learning**, always eager to adopt new technologies and improve processes.
+- Strong communication and leadership skills, with the ability to translate business needs into technical solutions.
+
+I am currently looking for a new challenge where I can apply my expertise to **drive innovation** and deliver impactful solutions in a fast-paced, dynamic environment.
+
+<br/>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelsandrade/) or reach out via [email](mailto:rafasouza@protonmail.com).
 
@@ -61,7 +75,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelsan
 
 ## 🔭 About Me
 
-- 💼 Currently working as a Software Engineer at **KillB**
+- 💼 Currently I'm Open to Work
 - 📫 Feel free to contact me at [rafasouza@protonmail.com](mailto:rafasouza@protonmail.com)
 
 ---
