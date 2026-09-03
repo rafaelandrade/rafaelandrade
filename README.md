@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/rafaelsandrade/">
     <img alt="Rafael's LinkedIn" width="150px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://oss.arvore.com.br/#/rafaelandrade">
+    <img alt="Árvore OSS Contributor" src="https://img.shields.io/endpoint?url=https://oss.arvore.com.br/endpoint/rafaelandrade.json&style=for-the-badge" />
+  </a>
 </p>
 
 ---
